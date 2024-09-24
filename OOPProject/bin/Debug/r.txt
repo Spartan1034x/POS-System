@@ -1,0 +1,10 @@
+Item                          Quantity            Item Price     
+
+Burton Flight Smacker 69      4                   $699.99        
+Taylormade Qi10 LS            1                   $829.99        
+Burton Chamber XS             5                   $199.99        
+
+Subtotal       Tax            Discount       Grandtotal     
+$4,629.90      $694.49        $699.99        $4,624.40      
+
+Customer: rafe

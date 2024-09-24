@@ -1,5 +1,0 @@
-admin,admin
-cathy,cathy
-rafe,rafe
-carter,carter
-aaron,aaron
